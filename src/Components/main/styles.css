@@ -1,0 +1,19 @@
+.product-list article {
+    background: rgb(247, 244, 243);
+    border: 1px solid #DDD;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 15px;
+    transition: all 1.2s
+}
+
+.product-list article:hover {
+    background: rgb(209, 204, 202);
+}
+
+.product-list article p {
+    font-size: 16px;
+    color: rgb(87, 87, 87) ;
+    margin-top: 5px;
+    line-height: 24px;
+}
